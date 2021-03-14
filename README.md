@@ -1,25 +1,35 @@
-<div dir="rtl">
-
-العربية [بالأسفل](#arabic)
-
-</div>  
-
+<div id = "english"/>
 
 # My Blog
 Here I will post blog posts and articles that I write or translate.
 
-## English Article Index
+<!-- <div dir="rtl">
+
+###### العربية [هنا](#arabic)
+
+</div>   -->
+
+## English Post Index
 
 #### *Empty*
 
 
 <div dir="rtl">
 
-# مدونتي
+
+<div id="arabic"/>
+
+# مدونتي 
 
 هنا سوف اقوم بوضع المشاركات والمقالات التي أكتبها أو اترجمها.
 
-## فهرس المقالات العربية {#arabic}
+<!-- <div dir="ltr">
+
+###### English [here](#english)
+
+</div>   -->
+
+## فهرس المنشورات العربية 
 
 * [كيف تستطيع المواقع تتبعك من خلال الأيقونات](favicon_super_cookies.md)
 
