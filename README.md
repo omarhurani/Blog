@@ -13,9 +13,9 @@ Here I will post blog posts and articles that I write or translate.
 
 #### *Empty*
 
+---
 
 <div dir="rtl">
-
 
 <div id="arabic"/>
 
