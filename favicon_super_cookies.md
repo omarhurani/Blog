@@ -216,5 +216,9 @@ Webserver.ondone = () => { const ID = getIDFromVector(visitedRoutes) };
 | 34 | 17,179,869,184 |حوالي 4 ثوانٍ | حوالي 4 ثوانٍ 
 
 
+## أعمال ذات صلة
 
 </div>
+
+* ~~[cs.uic.edu](https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf)~~: Study by Scientists at the University of Illinois, Chicago
+* [heise.de](https://www.heise.de/news/Browser-Fingerprinting-Favicons-als-Super-Cookies-5027814.html): Browser-Fingerprinting: Favicons als "Super-Cookies"
